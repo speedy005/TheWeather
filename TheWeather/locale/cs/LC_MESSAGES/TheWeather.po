@@ -1,0 +1,258 @@
+# Signed-off-by: Dario Croci <spaeleus@croci.org>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TheWeather v1.3\n"
+"POT-Creation-Date: 2024-10-15 16:47+0200\n"
+"PO-Revision-Date: 2024-10-15 17:22+0200\n"
+"Last-Translator: Warder <ciksa@seznam.cz>\n"
+"Language-Team: DREAM-ELITE https://www.dream-elite.net/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../../../../../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:166
+msgid "Sunny / Clear"
+msgstr "Slunečno / Jasno"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:168
+msgid "Clear night"
+msgstr "Jasná noc"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:170
+msgid "Sunny few clouds"
+msgstr "Slunečno málo mraků"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:172
+msgid "Light cloudy"
+msgstr "Světle zataženo"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:174
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:176
+msgid "Heavy clouds"
+msgstr "Těžká mračna"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:178
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:180
+msgid "Changeable and chance of mist"
+msgstr "Proměnlivé a šance na mlhu"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:182
+msgid "Sunny and chance of showers"
+msgstr "Slunečno a šance na přeháňky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:184
+msgid "Cloudy and chance of showers"
+msgstr "Oblačno a možnost přeháňky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:186
+msgid "Sunny and chance of thundershowers"
+msgstr "Slunečno a šance na bouřky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:188
+msgid "Showers and chance of thunder"
+msgstr "Přeháňky a šance na hromy"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:190
+msgid "Mostly sunny"
+msgstr "Skoro jasno"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:192
+msgid "Mostly clear"
+msgstr "Většinou jasné"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:194
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:196
+msgid "Heavy clouds showers possible"
+msgstr "Silná oblačnost možné přeháňky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:198
+msgid "Sunny and chance of mist"
+msgstr "Slunečno a šance na mlhu"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:200
+msgid "Clear and chance of mist"
+msgstr "Jasná a šance na mlhu"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:202
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:204
+msgid "Heavy clouds  heavy showers"
+msgstr "Velká oblačnost  silné přeháňky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:206
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:208
+msgid "Cloudy"
+msgstr "Oblačno"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:210
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:212
+msgid "Heavy clouds  thundershowers"
+msgstr "Silná oblačnost  bouřky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:214
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:216
+msgid "Heavy clouds and heavy snowfall"
+msgstr "Velká oblačnost a husté sněžení"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:218
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:220
+msgid "Changeable cloudy light snowfall"
+msgstr "Proměnlivé zataženo slabé sněžení"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:222
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:224
+msgid "Heavy clouds light snowfall"
+msgstr "Těžké mraky, slabé sněžení"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:226
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:228
+msgid "Heavy clouds winter rainfall"
+msgstr "Těžká mračna, zimní srážky"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:230
+msgid "No info"
+msgstr "Žádné informace"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:237
+msgid "N"
+msgstr "N"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:239
+msgid "NE"
+msgstr "ÉK"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:241
+msgid "E"
+msgstr "E"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:243
+msgid "SE"
+msgstr "JV"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:245
+msgid "S"
+msgstr "S"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:247
+msgid "SW"
+msgstr "JZ"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:249
+msgid "W"
+msgstr "W"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:251
+msgid "NW"
+msgstr "SZ"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:556
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:558
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:641
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:658
+msgid "Km/h"
+msgstr "Km/h"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:601
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:605
+msgid "Feels Like: "
+msgstr "Cítí se jako: "
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:602
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:606
+msgid "Wind direction: "
+msgstr "Směr větru: "
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:638
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:655
+msgid "h"
+msgstr "h"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1009
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1131
+msgid "Exit"
+msgstr "Odejít"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1010
+msgid "Location +"
+msgstr "Poloha +"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1011
+msgid "Location -"
+msgstr "Poloha -"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1012
+msgid "Help"
+msgstr "Pomoc"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1013
+msgid "Favorite Locations"
+msgstr "Oblíbená místa"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1014
+msgid "Location:"
+msgstr "Umístění:"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1046
+msgid "Download error: Check spelling."
+msgstr "Chyba stahování: Kontrola pravopisu."
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1048
+msgid "Download error: No response, try again"
+msgstr "Chyba stahování: Žádná odpověď, zkuste to znovu"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1052
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1055
+msgid "Enter cityname e.g. london or london_gb or london-2643743"
+msgstr "Zadejte název města, např. london nebo london_gb nebo london-2643743"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1132
+msgid "Standard Icons"
+msgstr "Standardní ikony"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1133
+msgid "Extra Icons "
+msgstr "Extra ikony "
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1134
+msgid ""
+"Manual adding Citynumbers:\n"
+"Go to www.bbc.com/weather\n"
+"Search city and find citycode in the internetlink.\n"
+"\n"
+"Go back to \"Location +\" and add cityname-number e.g.\n"
+"\"Dusseldorf-2934246\" or \"Dusseld-2934246\"\n"
+"Don't forget the \"-\" sign."
+msgstr ""
+"Ruční přidávání čísel měst:\n"
+"Přejít na www.bbc.com/weather\n"
+"Vyhledejte město a najděte kód města v internetodkazu.\n"
+"\n"
+"Vraťte se na \"Location +\" a přidejte cityname-number, např.\n"
+"\"Düsseldorf-2934246\" nebo \"Dusseld-2934246\"\n"
+"Nezapomeňte na znaménko \"-\"."
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1137
+#, python-format
+msgid "TheWeather_OE ipk v.%s"
+msgstr "TheWeather_OE ipk v.%s"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1147
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1154
+msgid "Reboot Plugin"
+msgstr "Restartujte plugin"
+
+#: data/usr/lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1241
+msgid ""
+"Whoops!\n"
+"Slow or no Internet connection\n"
+"Please try again"
+msgstr ""
+"Jejda!\n"
+"Pomalé nebo žádné připojení k internetu\n"
+"Zkuste to prosím znovu"

@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hetweer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-04-07 18:00+0100\n"
+"Last-Translator: gutosie <DED1950>\n"
+"Language-Team: GaduGadu nr.4599553 <http://all-forum.cba.pl >\n"
+"Language: ua\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Belgium"
+msgstr "Бельгія"
+
+msgid "Changeable and chance of mist"
+msgstr "Мінлива можливий туман"
+
+msgid "Changeable cloudy light snowfall"
+msgstr "Мінлива хмарність невеликий снігопад"
+
+msgid "Clear and chance of mist"
+msgstr "Ясно можливий туман"
+
+msgid "Clear night"
+msgstr "Ясна ніч"
+
+msgid "Clouds radar"
+msgstr "Радар хмар"
+
+msgid "Cloudy"
+msgstr "Хмарно"
+
+msgid "Cloudy and chance of showers"
+msgstr "Хмарно можливий дощ"
+
+msgid "Download error: Check spelling."
+msgstr "Помилка завантаження: Перевірте орфографію"
+
+msgid "Drizzle"
+msgstr "Мрячно"
+
+msgid "E"
+msgstr "O"
+
+msgid "Enter cityname e.g. london or london_gb or london-2643743"
+msgstr ""
+"Введіть назву міста i.n. london або london gb або london-2643743"
+
+msgid "Europe"
+msgstr "Європа"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Favorite Locations"
+msgstr "Улюблені локації"
+
+msgid "Feels Like: "
+msgstr "За відчуттями: "
+
+msgid "Fr"
+msgstr "Пт"
+
+msgid "Friday"
+msgstr "П'ятниця"
+
+msgid "Hail radar"
+msgstr "Радар Хагеля"
+
+msgid "Heavy clouds"
+msgstr "Важкі хмари"
+
+msgid "Heavy clouds  heavy showers"
+msgstr "Важкі хмари зливи"
+
+msgid "Heavy clouds  thundershowers"
+msgstr "Важкі хмари гроза"
+
+msgid "Heavy clouds and heavy snowfall"
+msgstr "Важкі хмари сильний снігопад"
+
+msgid "Heavy clouds light snowfall"
+msgstr "Важкі хмари легкий снігопад"
+
+msgid "Heavy clouds showers possible"
+msgstr "Можливий сильний дощ"
+
+msgid "Heavy clouds winter rainfall"
+msgstr "Важкі хмари зимові дощі"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "Km/h"
+msgstr "км/г"
+
+msgid "Light cloudy"
+msgstr "Легка хмарність"
+
+msgid "Local Weather"
+msgstr "Місцева погода"
+
+msgid "Location +"
+msgstr "Розташування +"
+
+msgid "Location -"
+msgstr "Розташування -"
+
+msgid "Location:"
+msgstr "Розташування:"
+
+msgid ""
+"Manual adding Citynumbers:\n"
+"Go to www.bbc.com/weather\n"
+"Search city and find citycode in the internetlink.\n"
+"\n"
+"Go back to \"Location +\" and add cityname-number e.g.\n"
+"\"Dusseldorf-2934246\" or \"Dusseld-2934246\"\n"
+"Don't forget the \"-\" sign."
+msgstr ""
+"Додавання номерів міста вручну:\n"
+"Перейдіть на сайт www.bbc.com/weather.\n"
+"Знайдіть місто та знайдіть код міста в інтернет-посиланні.\n"
+"\n"
+"Поверніться до \"Розташування +\" та додайте номер міста, наприклад\n"
+"\"Дюссельдорф-2934246\" або \"Дюссельд-2934246\"\n"
+"Не забувайте знак \"-\"."
+
+msgid "Mist radar"
+msgstr "Туманний радар"
+
+msgid "Mo"
+msgstr "По"
+
+msgid "Monday"
+msgstr "Понеділок"
+
+msgid "Mostly clear"
+msgstr "Переважно ясно"
+
+msgid "Mostly sunny"
+msgstr "Переважно сонячно"
+
+msgid "N"
+msgstr "N"
+
+msgid "NE"
+msgstr "NE"
+
+msgid "NW"
+msgstr "NW"
+
+msgid "Rainfall radar"
+msgstr "Радар опадів"
+
+msgid "S"
+msgstr "S"
+
+msgid "SE"
+msgstr "SE"
+
+msgid "SW"
+msgstr "SW"
+
+msgid "Sa"
+msgstr "Сб"
+
+msgid "Satellite"
+msgstr "Супутник"
+
+msgid "Saturday"
+msgstr "Субота"
+
+msgid "Showers and chance of thunder"
+msgstr "Дощі можлива гроза"
+
+msgid "Snow radar"
+msgstr "Сніговий радар"
+
+msgid "Su"
+msgstr "Нд"
+
+msgid "Sun radar"
+msgstr "Сонячний радар"
+
+msgid "Sunday"
+msgstr "Неділя"
+
+msgid "Sunny / Clear"
+msgstr "Сонячно / Ясно"
+
+msgid "Sunny and chance of mist"
+msgstr "Сонячно можливий туман"
+
+msgid "Sunny and chance of showers"
+msgstr "Сонячно можливий дощ"
+
+msgid "Sunny and chance of thundershowers"
+msgstr "Сонячно можлива гроза"
+
+msgid "Sunny few clouds"
+msgstr "Сонячно мала хмарність"
+
+msgid "Sunpower-UV"
+msgstr "Ультрафіолетове випромінювання-УФ"
+
+msgid "Temperature"
+msgstr "Температура"
+
+msgid "Th"
+msgstr "Чт"
+
+msgid "The Netherlands"
+msgstr "Нідерланди"
+
+msgid "TheWeather"
+msgstr "Погода"
+
+msgid "Thunder radar"
+msgstr "Громовий радар"
+
+msgid "Thursday"
+msgstr "Четвер"
+
+msgid "Tu"
+msgstr "Вт"
+
+msgid "Tuesday"
+msgstr "Вівторок"
+
+msgid "W"
+msgstr "W"
+
+msgid "We"
+msgstr "Ср"
+
+msgid "Weather forecast-nl"
+msgstr "Прогноз погоды-nl"
+
+msgid "WeatherInfo"
+msgstr "Погода-Инфо"
+
+msgid "Wednesday"
+msgstr "Середа"
+
+msgid "Wind direction: "
+msgstr "Напрямок вітру: "

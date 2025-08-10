@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meteo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-07 13:57+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Mo"
+msgstr "Lu"
+
+msgid "Tu"
+msgstr "Ma"
+
+msgid "We"
+msgstr "Me"
+
+msgid "Th"
+msgstr "Je"
+
+msgid "Fr"
+msgstr "Ve"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Di"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Belgium"
+msgstr "Belgique"
+
+msgid "Changeable and chance of mist"
+msgstr "Variable / risque brouillard"
+
+msgid "Changeable cloudy light snowfall"
+msgstr "Nuageux. Légère chute neige"
+
+msgid "Clear and chance of mist"
+msgstr "Dégagé. Risque brouillard"
+
+msgid "Clear night"
+msgstr "Nuit claire"
+
+msgid "Clouds radar"
+msgstr "Radar nuages"
+
+msgid "Cloudy"
+msgstr "Nuageux"
+
+msgid "Cloudy and chance of showers"
+msgstr "Nuageux. Risque averses"
+
+msgid "Download error: Check spelling."
+msgstr "Erreur chargem. Vérif ortho."
+
+msgid "Drizzle"
+msgstr "Bruine"
+
+msgid "E"
+msgstr "E"
+
+msgid "Enter cityname e.g. london or london_gb or london-2643743"
+msgstr "Entrer nom de ville ex. paris ou paris_fr ou paris-2988507"
+
+msgid "Europe"
+msgstr "Europe"
+
+msgid "Exit"
+msgstr "Sortie"
+
+msgid "Favorite Locations"
+msgstr "Endroits favoris"
+
+msgid "Feels Like: "
+msgstr "Ressenti: "
+
+msgid "Hail radar"
+msgstr "Radar grêle"
+
+msgid "Heavy clouds"
+msgstr "Très nuageux"
+
+msgid "Heavy clouds  heavy showers"
+msgstr "Très nuageux. Grosses averses"
+
+msgid "Heavy clouds  thundershowers"
+msgstr "Très nuageux. Orages"
+
+msgid "Heavy clouds and heavy snowfall"
+msgstr "Très nuageux. Neige"
+
+msgid "Heavy clouds light snowfall"
+msgstr "Très nuageux. Fine neige"
+
+msgid "Heavy clouds showers possible"
+msgstr "Très nuageux. Averses possibles"
+
+msgid "Heavy clouds winter rainfall"
+msgstr "Très nuageux. Averses hivernales"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Km/h"
+msgstr "Km/h"
+
+msgid "Light cloudy"
+msgstr "Peu nuageux"
+
+msgid "Local Weather"
+msgstr "Météo locale"
+
+msgid "Location +"
+msgstr "Ville +"
+
+msgid "Location -"
+msgstr "Ville -"
+
+msgid "Location:"
+msgstr "Ville:"
+
+msgid ""
+"Manual adding Citynumbers:\n"
+"Go to www.bbc.com/weather\n"
+"Search city and find citycode in the internetlink.\n"
+"\n"
+"Go back to \"Location +\" and add cityname-number e.g.\n"
+"\"Dusseldorf-2934246\" or \"Dusseld-2934246\"\n"
+"Don't forget the \"-\" sign."
+msgstr ""
+"Ajout manuel selon numero:\n"
+"Visitez www.bbc.com/weather\n"
+"Chercher ville et trouver code dans lien inernet.\n"
+"\n"
+"Revenir à \"Ville +\" et ajouter le code de la ville.\n"
+"\"Paris-2988507\" \n"
+"Pas oublier le tiret \"-\"."
+
+msgid "Mist radar"
+msgstr "Radar brouillard"
+
+msgid "Mostly clear"
+msgstr "Généralement dégagé"
+
+msgid "Mostly sunny"
+msgstr "Soleil dominant"
+
+msgid "N"
+msgstr "N"
+
+msgid "NE"
+msgstr "NE"
+
+msgid "NW"
+msgstr "NO"
+
+msgid "Rainfall radar"
+msgstr "Radar pluie"
+
+msgid "WeatherInfo"
+msgstr "Info météo"
+
+msgid "S"
+msgstr "S"
+
+msgid "SE"
+msgstr "SE"
+
+msgid "SW"
+msgstr "SO"
+
+msgid "Satellite"
+msgstr "Satellite"
+
+msgid "Showers and chance of thunder"
+msgstr "Averses / risque orage"
+
+msgid "Snow radar"
+msgstr "Radar neige"
+
+msgid "Sun radar"
+msgstr "Radar solaire"
+
+msgid "Sunny / Clear"
+msgstr "Soleil / Dégagé"
+
+msgid "Sunny and chance of mist"
+msgstr "Soleil / risque brouillard"
+
+msgid "Sunny and chance of showers"
+msgstr "Soleil / risque averses"
+
+msgid "Sunny and chance of thundershowers"
+msgstr "Soleil / risque orages"
+
+msgid "Sunny few clouds"
+msgstr "Soleil. Quelques nuages"
+
+msgid "Sunpower-UV"
+msgstr "Soleil-UV"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "The Netherlands"
+msgstr "Hollande"
+
+msgid "TheWeather"
+msgstr "Météo"
+
+msgid "Thunder radar"
+msgstr "Radar orages"
+
+msgid "W"
+msgstr "O"
+
+msgid "Weather forecast-nl"
+msgstr "Prévisions météo-fr"
+
+msgid "Wind direction: "
+msgstr "Direction vent: "

@@ -1,0 +1,257 @@
+# Signed-off-by: Dario Croci <spaeleus@croci.org>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TheWeather v1.3\n"
+"POT-Creation-Date: 2024-10-15 17:39+0200\n"
+"PO-Revision-Date: 2024-10-15 17:39+0200\n"
+"Last-Translator: Dario Croci <spaeleus@croci.org>\n"
+"Language-Team: DREAM-ELITE https://www.dream-elite.net/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../../../../../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:164
+msgid "Sunny / Clear"
+msgstr "Soleggiato/Sereno"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:166
+msgid "Clear night"
+msgstr "Notte serena"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:168
+msgid "Sunny few clouds"
+msgstr "Soleggiato, poco nuvoloso"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:170
+msgid "Light cloudy"
+msgstr "Poco nuvoloso"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:172
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:174
+msgid "Heavy clouds"
+msgstr "Molto nuvoloso"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:176
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:178
+msgid "Changeable and chance of mist"
+msgstr "Variabile, possibilità di nebbia"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:180
+msgid "Sunny and chance of showers"
+msgstr "Soleggiato con possibilità di rovesci"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:182
+msgid "Cloudy and chance of showers"
+msgstr "Nuvoloso con possibilità di rovesci"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:184
+msgid "Sunny and chance of thundershowers"
+msgstr "Soleggiato con possibilità di temporali"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:186
+msgid "Showers and chance of thunder"
+msgstr "Rovesci con probabili tuoni"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:188
+msgid "Mostly sunny"
+msgstr "Prevalentemente soleggiato"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:190
+msgid "Mostly clear"
+msgstr "Prevalentemente sereno"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:192
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:194
+msgid "Heavy clouds showers possible"
+msgstr "Molto nuvoloso con possibili rovesci"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:196
+msgid "Sunny and chance of mist"
+msgstr "Soleggiato con possibilità di nebbia"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:198
+msgid "Clear and chance of mist"
+msgstr "Sereno con possibilità di nebbia"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:200
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:202
+msgid "Heavy clouds  heavy showers"
+msgstr "Molto nuvoloso con forti rovesci"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:204
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:206
+msgid "Cloudy"
+msgstr "Nuvoloso"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:208
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:210
+msgid "Heavy clouds  thundershowers"
+msgstr "Molto nuvoloso con temporali"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:212
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:214
+msgid "Heavy clouds and heavy snowfall"
+msgstr "Molto nuvoloso con forti nevicate"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:216
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:218
+msgid "Changeable cloudy light snowfall"
+msgstr "Variabile/Nuvoloso con lievi nevicate"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:220
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:222
+msgid "Heavy clouds light snowfall"
+msgstr "Molto nuvoloso con lievi nevicate"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:224
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:226
+msgid "Heavy clouds winter rainfall"
+msgstr "Molto nuvoloso con precipitazioni invernali"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:228
+msgid "No info"
+msgstr "Nessuna informazione"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:235
+msgid "N"
+msgstr "N"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:237
+msgid "NE"
+msgstr "NE"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:239
+msgid "E"
+msgstr "E"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:241
+msgid "SE"
+msgstr "SE"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:243
+msgid "S"
+msgstr "S"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:245
+msgid "SW"
+msgstr "SO"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:247
+msgid "W"
+msgstr "O"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:249
+msgid "NW"
+msgstr "NO"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:554
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:556
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:639
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:656
+msgid "Km/h"
+msgstr "Km/h"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:599
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:603
+msgid "Feels Like: "
+msgstr "Percepita: "
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:600
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:604
+msgid "Wind direction: "
+msgstr "Direzione del vento: "
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:636
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:653
+msgid "h"
+msgstr "h"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1037
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1160
+msgid "Exit"
+msgstr "Uscire"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1038
+msgid "Location +"
+msgstr "Località +"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1039
+msgid "Location -"
+msgstr "Località -"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1040
+msgid "Help"
+msgstr "Help"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1041
+msgid "Favorite Locations"
+msgstr "Località preferite"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1042
+msgid "Location:"
+msgstr "Località:"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1074
+msgid "Download error: Check spelling."
+msgstr "Errore download: controllare l'ortografia."
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1077
+msgid "Download error: No response, try again"
+msgstr "Erroredownload: nessuna risposta. Riprovare"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1081
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1084
+msgid "Enter cityname e.g. london or london_gb or london-2643743"
+msgstr "Inserire il nome della città. Es.: Londra/Londra_gb/Londra-2643743"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1161
+msgid "Standard Icons"
+msgstr "Icone Standard"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1162
+msgid "Extra Icons "
+msgstr "Icone Extra"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1163
+msgid ""
+"Manual adding Citynumbers:\n"
+"Go to www.bbc.com/weather\n"
+"Search city and find citycode in the internetlink.\n"
+"\n"
+"Go back to \"Location +\" and add cityname-number e.g.\n"
+"\"Dusseldorf-2934246\" or \"Dusseld-2934246\"\n"
+"Don't forget the \"-\" sign."
+msgstr ""
+"Aggiunta manuale di Citynumber:\n"
+"Andare su www.bbc.com/weather\n"
+"Cercare la città e trovare il citycode nel link internet.\n"
+"\n"
+"Tornare a \"Posizione +\" e aggiungere il numero del nome della città, come\n"
+"\"Dusseldorf-2934246\" o \"Dusseld-2934246\"\n"
+"Non dimenticare il segno \"-\"."
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1166
+#, python-format
+msgid "TheWeather_OE ipk v.%s"
+msgstr ""
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1176
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1183
+msgid "Reboot Plugin"
+msgstr "Riavvia il Plugin"
+
+#: lib/enigma2/python/Plugins/Extensions/TheWeather/plugin.py:1270
+msgid ""
+"Whoops!\n"
+"Slow or no Internet connection\n"
+"Please try again"
+msgstr ""
+"Oops...\n"
+"Connessione a internet assente o lenta.\n"
+"Riprovare"
